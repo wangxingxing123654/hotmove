@@ -106,7 +106,7 @@ function App() {
           }
         });
         openNextBatch(batch + 1);
-      }, 5000);
+      }, 15000);
     };
 
     openNextBatch(0);
